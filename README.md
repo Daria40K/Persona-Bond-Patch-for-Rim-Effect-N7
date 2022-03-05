@@ -1,6 +1,6 @@
 #Persona Bond Patch for Rim-Effect: N7
 
-![](https://github.com/dave40k/Persona-Bond-Patch-for-Rim-Effect-N7/blob/main/About/Preview.png)
+![](https://github.com/Daria40K/Persona-Bond-Patch-for-Rim-Effect-N7/blob/main/About/Preview.png)
 
 ## Weapons Patch
 - N7 blade
